@@ -1,3 +1,23 @@
 .q1{
     background-image: url(https://demos.freehtml5.co/king/images/img_bg_2.jpg);
 }
+.navbar-brand{
+    color: white;
+    font-weight: 900;
+    font-size: 20px;
+}
+.btn {
+    background-color: brown;
+    color: white;
+    font-weight: 700;
+}
+.nav-link{
+    color: white;
+    font-weight: 700;
+}
+.navbar-nav{
+    margin-right: 25px;
+}
+.navbar{
+    padding-top: 30px;
+}
