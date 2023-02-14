@@ -7,7 +7,7 @@
     font-size: 30px;
 }
 .btn {
-    background-color: brown;
+    background-color: orangered;
     color: white;
     font-weight: 700;
     padding: 7px 25px 7px 25px;
@@ -38,4 +38,26 @@
     font-size: 20px;
     font-weight: 600;
 
+}
+.q8{
+    text-decoration: none;
+    color: white;
+    padding: 15px 23px;
+    background-color: orangered;
+    font-weight: 700;
+    border-radius: 13px;
+}
+.q5{
+    padding-top: 115px;
+    font-weight: 700;
+}
+.q6{
+    font-weight: 700;
+    font-size: 40px;
+}
+.q7{
+    font-weight: 700;
+}
+.q9{
+    margin-top: 60px;
 }
